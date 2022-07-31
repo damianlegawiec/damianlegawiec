@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm building all-in-one B2B/Marketplace ecommerce platform [vendo](https://getvendo.com?utm_source=damian_github) and leading [Spree](https://spreecommerce.org) - 2nd most popular #ecommerce project on GitHub
+I'm building [Vendo - an all-in-one Marketplace eCommerce platform](https://getvendo.com?utm_source=damian_github) and leading [Spree Commerce](https://spreecommerce.org) development - 2nd most popular #ecommerce project on GitHub
 
 ## About vendo
 
