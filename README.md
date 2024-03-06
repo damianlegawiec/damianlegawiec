@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm building [Vendo - an all-in-one multi-vendor Marketplace platform](https://getvendo.com?utm_source=damian_github).
+I'm currently CTO at [Vendo - an all-in-one multi-vendor Marketplace platform](https://getvendo.com?utm_source=damian_github).
 
-Prev led [Spree Commerce](https://spreecommerce.org) development - 2nd most popular #ecommerce project on GitHub
+In my free time I develop [Spree Commerce](https://spreecommerce.org) #3 most popular #ecommerce project on GitHub
 
 ## About vendo
 
