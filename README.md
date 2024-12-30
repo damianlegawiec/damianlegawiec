@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm currently CTO at [Vendo](https://getvendo.com?utm_source=damian_github).
-
-In my free time I develop [Spree Commerce](https://spreecommerce.org) #3 most popular #ecommerce project on GitHub
+I'm currently CTO at [Vendo](https://getvendo.com?utm_source=damian_github), the company behind the [Spree Commerce](https://spreecommerce.org) #3 most popular #ecommerce project on GitHub
 
 ## About vendo
 
